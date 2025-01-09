@@ -1,7 +1,5 @@
 `timescale 1 ps / 100 fs
 module CompareAddress(equal,Addr1,Addr2);
-// fpga4student.com: FPGA projects, Verilog Projects, VHDL projects
-// Verilog project: 32-bit 5-stage Pipelined MIPS Processor in Verilog 
 // Compare Address
 output equal;
 wire equal;
